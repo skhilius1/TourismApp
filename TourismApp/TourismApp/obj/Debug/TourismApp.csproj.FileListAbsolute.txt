@@ -1,0 +1,9 @@
+C:\Users\Alexander\source\repos\TourismApp\TourismApp\TourismApp\bin\Debug\TourismApp.exe.config
+C:\Users\Alexander\source\repos\TourismApp\TourismApp\TourismApp\bin\Debug\TourismApp.exe
+C:\Users\Alexander\source\repos\TourismApp\TourismApp\TourismApp\bin\Debug\TourismApp.pdb
+C:\Users\Alexander\source\repos\TourismApp\TourismApp\TourismApp\obj\Debug\TourismApp.csproj.AssemblyReference.cache
+C:\Users\Alexander\source\repos\TourismApp\TourismApp\TourismApp\obj\Debug\TourismApp.Properties.Resources.resources
+C:\Users\Alexander\source\repos\TourismApp\TourismApp\TourismApp\obj\Debug\TourismApp.csproj.GenerateResource.cache
+C:\Users\Alexander\source\repos\TourismApp\TourismApp\TourismApp\obj\Debug\TourismApp.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\TourismApp\TourismApp\TourismApp\obj\Debug\TourismApp.exe
+C:\Users\Alexander\source\repos\TourismApp\TourismApp\TourismApp\obj\Debug\TourismApp.pdb
